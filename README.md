@@ -18,4 +18,4 @@ This project predicts fraudulent financial transactions using Machine Learning.
 ## Run Locally
 
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run fraud_deploy.py
